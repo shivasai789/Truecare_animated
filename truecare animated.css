@@ -1,0 +1,370 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Montserrat:wght@300;500&family=Nunito&family=Open+Sans:wght@500&family=Rubik&display=swap');
+
+* {
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+section {
+    overflow-x: hidden;
+}
+
+.truecare-logo {
+    color: red;
+    font-size: 30px;
+}
+
+.bg-color {
+    background-color: #f9fbfe;
+}
+
+.nav-text {
+    font-weight: bold;
+}
+
+.truecare-logo1 {
+    color: red;
+    font-size: 40px;
+}
+
+.truecare-name {
+    color: #157fd6;
+    font-size: 30px;
+    font-weight: bold;
+    color: #157fd6;
+}
+
+
+.truecare-home {
+    background-image: url("https://res.cloudinary.com/dsovyumur/image/upload/v1677599755/1_qzvqd7.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+    margin-right: 200px;
+}
+
+.banner-button {
+    font-size: 15px;
+    border-width: 2px;
+    border-color: black;
+    margin-left: 15px;
+}
+
+.banner-heading1 {
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: 200px;
+}
+
+.banner-button1 {
+    font-size: 15px;
+    border-width: 1px;
+    border-color: black;
+    margin-right: 380px;
+}
+
+.wcu-container {
+    background-color: #f9fbfe;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.wcu-item-container {
+    background-color: white;
+}
+
+.wcu-img {
+    width: 35%;
+}
+
+.wcu-img1 {
+    width: 30%;
+}
+
+.wcu-img3 {
+    width: 38%
+}
+
+.wcu-img2 {
+    width: 45%;
+}
+
+.wcu-name {
+    font-size: 20px;
+}
+
+.wcu-description {
+    font-size: 15px;
+    color: #7b8794;
+}
+
+
+.reminder-suggestion-container {
+    background-color: #f9fbfe;
+}
+
+.reminder-suggestion-heading {
+    font-size: 30px;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
+
+.reminder-suggestion-img {
+    width: 50%;
+}
+
+.reminder-suggestion-img1 {
+    width: 60%;
+}
+
+.reminder-suggestion-img2 {
+    width: 53%;
+}
+
+.reminder-suggestion-name {
+    color: #5993f0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.eprescription-container {
+    background-color: #f9fbfe;
+}
+
+.prescription-img {
+    width: 100%;
+}
+
+.e-cardcontainer {
+    background-image: radial-gradient(#f9fbfe, rgb(27, 27, 238));
+    border-radius: 5px;
+}
+
+.e-precription-heading {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.e-precription-des {
+    font-family: Caveat;
+    font-size: 55px;
+}
+
+.e-precription-des1 {
+    font-size: 20px;
+}
+
+.Prescribe-img {
+    width: 65%;
+}
+
+.modal-title {
+    font-size: 32px;
+}
+
+.eprescription-container1 {
+    background-image: url("https://res.cloudinary.com/dsovyumur/image/upload/v1678188175/MDM-solution-healthcare-banner_q9y3l0.png");
+    height: 80vh;
+    border-radius: 10px;
+}
+
+.position-home {
+    margin-top: 10%;
+    margin-right: 60%;
+}
+
+.eprescription-software {
+    font-size: 25px;
+    color: #b5de10;
+    font-weight: bold;
+}
+
+.eprescription-software-title {
+    font-family: "Caveat";
+    font-size: 70px;
+    color: white;
+    font-weight: bold;
+}
+
+.eprescription-software-des {
+    font-size: 25px;
+    color: #e6094b;
+    font-weight: bold;
+}
+
+.e-prescription-bdes {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.detail-card-container {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.basic-details-img {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.basic-detail-heading {
+    font-size: 25px;
+    color: rgb(65, 65, 216);
+    font-weight: bold;
+}
+
+.d-heading {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.d-heading {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.detail-container {
+    background-color: #f9fbfe;
+}
+
+.latestnews-contaianer {
+    background-color: #f9fbfe;
+}
+
+.latestnew-heading {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.latestnews-img {
+    width: 100%;
+}
+
+.latestnews-h1 {
+    font-size: 15px;
+}
+
+.latestnews-des {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.latest-card-container {
+    background-color: white;
+}
+
+.helpsection-container {
+    background-color: #dfe9ec;
+}
+
+.helpsection-card {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.helpsection-heading1 {
+    color: #16537e;
+    font-weight: bold;
+}
+
+.helpsection-heading2 {
+    color: #2986cc;
+    font-weight: bold;
+}
+
+.helpsection-heading3 {
+    color: #0f8d47;
+    font-weight: bold;
+}
+
+.helpsection-img {
+    width: 20%;
+}
+
+.helpsection-des {
+    font-size: 20px;
+}
+
+.line {
+    background-color: #2F4A51;
+    height: 3px;
+}
+
+.link-text {
+    text-decoration: underline;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer-container {
+    background-color: #0d2436;
+}
+
+.truecare-img {
+    margin-top: 10px;
+}
+
+.icon-container {
+    background-color: #152c3e;
+    border-radius: 25px;
+    height: 50px;
+    width: 50px;
+    padding: 15px;
+    margin: 5px;
+}
+
+.logo {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+
+.subheading-footer {
+    font-size: 20px;
+    color: #5a7184;
+    font-weight: bold;
+}
+
+.text-footer {
+    font-size: 18px;
+    color: #5a7184;
+}
+
+.line-footer {
+    background-color: #5a7184;
+    width: 100%;
+}
+
+.logo1 {
+    color: #5a7184;
+    font-size: 25px;
+    margin: 5px;
+}
+
+.footer-address {
+    font-size: 18px;
+    color: #5a7184;
+}
